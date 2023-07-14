@@ -9,6 +9,9 @@ in this repository is a set of related exercises. Open up the files(.rb) and rea
 # Author
 Lorenah M.
 
+#co_author
+Allan Kiplagat
+
 # Cloning and installation
 
 Clone this repository to your local machine. To do this, click on the green "Code" button at the top right of list of files and copy the link in the prompt. Then, run the following command in your terminal:
